@@ -1,1 +1,3 @@
 # woowa-writing-4
+
+ESTJ에서 ENTJ로 변하게된 과정에 관하여...
