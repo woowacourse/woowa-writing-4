@@ -71,7 +71,7 @@
 
 <img src="./woowacourse-4th-announce.jpeg" alt="우아한테크코스 4기 모집 공고" width="300px">
 
-참고 : [한명의 개발자를 양성하기까지](https://techblog.woowahan.com/5977/)
+[한명의 개발자를 양성하기까지](https://techblog.woowahan.com/5977/)
 
 <br><br><br>
 
