@@ -394,9 +394,9 @@ TDD와 앞으로 좀 더 친해져 보고 싶은(?) 계기가 될 것 같다.
 
 우테코를 시작하고 가장 믿지 못할만한 말이 있었다.
 
-바로 아래와 같다.
-
 ![](https://images.velog.io/images/compy/post/2faa432a-d733-4d6b-84a4-dc7f844eaba8/so-2.png)
+
+_우테코 인원의 80%는 MBTI가 "I"로 시작합니다._
 
 
 
