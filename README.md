@@ -11,15 +11,15 @@
 미션을 진행하면서도 오버엔지니어링에 대한 리뷰도 받았다. 미션을 수행하는 데 필요치 않는 추상화와 클래스 추출을 수행했기 때문인데, 이 과정을 수행하게 된 주된 계기는 중복 제거와 단일 책임 원칙이였다. 이러한 과정을 겪은 코드를 본 크루와 리뷰어는 "너무 과한 설계인 것 같다"라고 의견을 제시해줬다. 처음에는 "당연히 중복 제거와 단일 책임 원칙을 준수하기 위해서 수행할 수 있는 과정이 아닌가?"라는 생각을 했지만, `Object Design` 이라는 책을 접하고 생각이 바뀌었다. 아래의 글은 `Object Design`에서 설계에 대한 짤막한 글을 가져왔다.
 
 > **Pursing a Solution**
-How should you choose among acceptable design alternatives? Consider this simple strategy:
-1. If you don’t have any predefined notions, create a solution that seems to work.
-2. Explore the limits and strengths of that solution. To hedge your bets, measure at least one alternative against the first solution.
-3. Favor a solution that contributes to design consistency.
-4. Don’t overwork a solution.
-5. Fit your solution into known design patterns.
-6. Borrow and adapt proven design ideas and archetypes.
-7. Be willing to revise earlier decisions when this get ugly.
-8. If you don’t have the time, don’t search for insights. Abstraction or cleverness can’t be forced.
+> How should you choose among acceptable design alternatives? Consider this simple strategy:
+> 1. If you don’t have any predefined notions, create a solution that seems to work.
+> 2. Explore the limits and strengths of that solution. To hedge your bets, measure at least one alternative against the first solution.
+> 3. Favor a solution that contributes to design consistency.
+> 4. Don’t overwork a solution.
+> 5. Fit your solution into known design patterns.
+> 6. Borrow and adapt proven design ideas and archetypes.
+> 7. Be willing to revise earlier decisions when this get ugly.
+> 8. If you don’t have the time, don’t search for insights. Abstraction or cleverness can’t be forced.
 
 이 글을 접하고 나서, 우테코 미션의 과정을 다시 한번 생각해보게 되었다. 블랙잭 미션에 빗대어 본다면, 1 ~ 4번까지의 과정은 페어와 함께 미션을 수행하면서 초기의 다양한 설계를 시도하고 비교하는 과정이라고 생각된다. 5, 6번과 같이 디자인 패턴을 활용하는 과정은 네오가 블랙잭 피드백 강의에서 보여준 상태 패턴을 적용하는 과정이라고 생각된다. 책에서는 초기 설계에 과한 공을 들이지마라고 얘기하고 있다. 그 이유는 초기에 과한 추상화로 인해 발견할 수 있는 다양한 설계 대안들을 발견하기 어렵게 만들기 때문이라고 말한다.
 
