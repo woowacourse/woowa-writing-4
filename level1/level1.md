@@ -24,23 +24,8 @@
 
 - [송파구에서 일 더 잘하는 11가지 방법](https://www.hani.co.kr/arti/PRINT/850360.html) 
 - [행복한 구성원이 좋은 서비스를 만든다고요?](https://www.youtube.com/watch?v=1OfEwum8vgk)
-
-<br><br>
-
-
-
-이전 기수 우테코 수료생이 발표한 [테코톡](https://www.youtube.com/watch?v=XfYJCpAb2aE) 을 보면 행복감이 넘쳐난다.
-수강생의 발표라고 믿기 어려울 정도의 훌륭한 퀄리티도 놀랍지만
-그들이 함께 만들어내는 학습 분위기는 더더욱 부러웠다.
-
-이렇게 매력적으로 협력하는 곳은 찾을 수 없었다.
-기술력은 혹시나 다른 곳에서도 비슷하게 채워줄 수 있을지도 모르겠다. 
-그러나 이런 문화를 가진 곳은 여기뿐이라고 확신한다. 
-우테코에 가서 배우고 싶고 닮고 싶고 행복해지고 싶었다.
-
-> 함께 보면 좋은 글 : [한명의 개발자를 양성하기까지](https://techblog.woowahan.com/5977/)
-
-<br><br><br>
+- [테코톡](https://www.youtube.com/watch?v=XfYJCpAb2aE)
+- [한명의 개발자를 양성하기까지](https://techblog.woowahan.com/5977/)
 
 # 우테코가 나를 바꾸고 있다
 
