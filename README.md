@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="./woowacourse.png" alt="우아한테크코스" width="250px">
+    <img src="img/woowacourse.png" alt="우아한테크코스" width="250px">
 </p>
 
 # 📖 글쓰기
@@ -13,7 +13,7 @@
 
 > 우아한테크코스 웹 백엔드 4기, 글쓰기 미션 저장소입니다.
 
-<img src="./thumbnail.jpeg" alt="writing" width="400px">
+<img src="img/thumbnail.jpeg" alt="writing" width="400px">
 
 <br><br>
 
