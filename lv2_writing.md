@@ -51,7 +51,7 @@ _김선재, 여기가 아닌 어딘가_
 ### 커피만 쪽쪽 빨며 묻어가지는 말자 
 
 <div align="center">
-<img src="https://img.danawa.com/images/descFiles/6/3/5002212_1_16471332791321811.gif" width="30%" height="60%">
+<img src="https://img.danawa.com/images/descFiles/6/3/5002212_1_16471332791321811.gif" width="30%" height="80%">
   
 <a href="https://img.danawa.com/images/descFiles/6/3/5002212_1_16471332791321811.gif">기똥찬 커피</a>
 </div>
