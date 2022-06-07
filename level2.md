@@ -39,7 +39,6 @@
 ### 필살 진심 공부법 - 14714 공부법(마지막 비기)
 
 ![](https://mblogthumb-phinf.pstatic.net/MjAyMDAxMDFfMTcw/MDAxNTc3ODg1NTc1NDUx.Py5YIk3-m03G7ghvrG-7q7IxuCTwJ-mh5_fD69wA6uwg.EREL-KKgc6OWSfz7ejXAXOFxS7mkleOJC1Vo7xyLpkQg.JPEG.anjel93/%EC%BA%A1%EC%B2%98.JPG?type=w2)
-
 위의 사진이 전부다.
 즉, 오늘 날짜에 1일전, 3일전, 6일전에 했던 공부를 복습하면 된다.
 짧은 주기를 기반으로 반복적으로 학습해서 몸에 체화시키는 강력한 공부법이다.
