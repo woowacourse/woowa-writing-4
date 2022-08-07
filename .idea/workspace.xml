@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4623d74d-48b9-4974-acf8-cb7e68a12d44" name="Changes" comment="refactor: 감동 추가">
+      <change afterPath="$PROJECT_DIR$/Level3.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitRewordedCommitMessages">
+    <option name="commitMessagesMapping">
+      <RewordedCommitMessageMapping>
+        <option name="originalMessage" value="Update Level1.md" />
+        <option name="rewordedMessage" value="level1 내용 추가" />
+      </RewordedCommitMessageMapping>
+    </option>
+    <option name="currentCommit" value="1" />
+    <option name="onto" value="29ca0ffab2a0b5db3a46027d22229d39fb6a2d10" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="step2" />
+                    <option name="lastUsedInstant" value="1653816619" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="her0807" />
+                    <option name="lastUsedInstant" value="1653816618" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="29piUzduxJBpd0hvbP6NZmDfJ0x" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4623d74d-48b9-4974-acf8-cb7e68a12d44" name="Changes" comment="" />
+      <created>1653816449055</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1653816449055</updated>
+      <workItem from="1653816450239" duration="22000" />
+      <workItem from="1653816569053" duration="7173000" />
+      <workItem from="1653894718109" duration="339000" />
+      <workItem from="1653896563693" duration="327000" />
+      <workItem from="1654302092715" duration="1144000" />
+      <workItem from="1654387147784" duration="3662000" />
+      <workItem from="1659898811324" duration="623000" />
+    </task>
+    <task id="LOCAL-00001" summary="docs: level2 글쓰기 초안">
+      <created>1653829719624</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1653829719624</updated>
+    </task>
+    <task id="LOCAL-00002" summary="docs: 맞춤법 수정">
+      <created>1653896583641</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1653896583642</updated>
+    </task>
+    <task id="LOCAL-00003" summary="refactor: 애쉬 피드백 반영">
+      <created>1654302240609</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1654302240609</updated>
+    </task>
+    <task id="LOCAL-00004" summary="refactor: 애쉬 피드백 반영">
+      <created>1654302527049</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1654302527049</updated>
+    </task>
+    <task id="LOCAL-00005" summary="refactor: 애쉬 피드백 반영">
+      <created>1654302569100</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1654302569100</updated>
+    </task>
+    <task id="LOCAL-00006" summary="refactor: 대장님들 피드백 반영">
+      <created>1654388373550</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1654388373551</updated>
+    </task>
+    <task id="LOCAL-00007" summary="refactor: 개행 추가">
+      <created>1654388460531</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1654388460531</updated>
+    </task>
+    <task id="LOCAL-00008" summary="refactor: 칭찬 추가">
+      <created>1654388669652</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1654388669652</updated>
+    </task>
+    <task id="LOCAL-00009" summary="refactor: 격려 한마디">
+      <created>1654389514570</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1654389514570</updated>
+    </task>
+    <task id="LOCAL-00010" summary="refactor: 스타일 변경">
+      <created>1654389543448</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1654389543448</updated>
+    </task>
+    <task id="LOCAL-00011" summary="refactor: 감동 추가">
+      <created>1654389791685</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1654389791685</updated>
+    </task>
+    <task id="LOCAL-00012" summary="refactor: 감동 추가">
+      <created>1654389857883</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1654389857883</updated>
+    </task>
+    <task id="LOCAL-00013" summary="refactor: 감동 추가">
+      <created>1654389892679</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1654389892679</updated>
+    </task>
+    <task id="LOCAL-00014" summary="refactor: 감동 추가">
+      <created>1654389966086</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1654389966086</updated>
+    </task>
+    <task id="LOCAL-00015" summary="refactor: 감동 추가">
+      <created>1654389995917</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1654389995917</updated>
+    </task>
+    <task id="LOCAL-00016" summary="refactor: 감동 추가">
+      <created>1654390010239</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1654390010239</updated>
+    </task>
+    <task id="LOCAL-00017" summary="refactor: 감동 추가">
+      <created>1654390038645</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1654390038645</updated>
+    </task>
+    <task id="LOCAL-00018" summary="refactor: 감동 추가">
+      <created>1654390061954</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1654390061954</updated>
+    </task>
+    <task id="LOCAL-00019" summary="refactor: 감동 추가">
+      <created>1654390083918</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1654390083918</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="step2" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="origin/step2" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="docs: level2 글쓰기 초안" />
+    <MESSAGE value="docs: 맞춤법 수정" />
+    <MESSAGE value="refactor: 애쉬 피드백 반영" />
+    <MESSAGE value="refactor: 대장님들 피드백 반영" />
+    <MESSAGE value="refactor: 개행 추가" />
+    <MESSAGE value="refactor: 칭찬 추가" />
+    <MESSAGE value="refactor: 격려 한마디" />
+    <MESSAGE value="refactor: 스타일 변경" />
+    <MESSAGE value="refactor: d" />
+    <MESSAGE value="refactor: 감동 추가" />
+    <option name="LAST_COMMIT_MESSAGE" value="refactor: 감동 추가" />
+  </component>
+</project>
