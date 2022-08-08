@@ -59,6 +59,6 @@
 
 팀 프로젝트 기간 많이 배웠다고 생각하고, 잘 받아들이고 있어 내가 참 기특하고 무엇보다 팀원들에게 많이 배울 수 있어 감사하다. 
 
-It happened <s>to</s> for me !
+It happens <s>to</s> for me !
 
 끝.
