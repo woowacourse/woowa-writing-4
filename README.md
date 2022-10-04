@@ -7,8 +7,8 @@
 ---
 
 [![Generic badge](https://img.shields.io/badge/Level1-finished-blue.svg)](level1.md)
-[![Generic badge](https://img.shields.io/badge/Level2-started-green.svg)](level2.md)
-[![Generic badge](https://img.shields.io/badge/Level3-ready-green.svg)](level3.md)
+[![Generic badge](https://img.shields.io/badge/Level2-finished-blue.svg)](level2.md)
+[![Generic badge](https://img.shields.io/badge/Level3-started-yellow.svg)](level3.md)
 [![Generic badge](https://img.shields.io/badge/Level4-ready-green.svg)](level4.md)
 
 > 우아한테크코스 웹 백엔드 4기, 글쓰기 미션 저장소입니다.
@@ -21,8 +21,6 @@
 
 ### [🖋 우아한테크코스 한 달 생활기](level1.md)
 
----
-
 - 글쓰기는 생각과 감정을 문자로 정리하고 표현하기
 - 잘 써야겠다는 욕심 버리기
 - 같은 팀 크루 5~6명의 글에 피드백 남기기
@@ -31,11 +29,11 @@
 
 ---
 
+<br><br>
+
 ## 레벨 2 - 성장
 
 ### [🖋우테코에서 찾은 나만의 효과적인 공부법](./level2.md)
-
----
 
 - 본인의 `기존 학습 방식과는 다른 점`을 서술하고, 나아가 `어떻게 발전시킬 지`에 대해 작성
 - `비교 & 대조`의 글쓰기를 시도해보기
@@ -44,11 +42,21 @@
 
 ---
 
+<br><br>
+
 ## 레벨 3 - 회고
 
-### [TBA](./level3.md)
+### [🖋팀 프로젝트가 나에게 남긴 것](./level3.md)
+
+- 프로젝트 회고가 아닌, `팀 프로젝트에 참여하고 있는 자신`을 돌아보는 글을 작성.
+    - 어떤 마음으로 팀 프로젝트에 임했는지.
+    - 팀에서 나는 어떤 사람이었는지.
+    - 팀 프로젝트를 통해 배운 점이 무엇인지.
+- 최대한 구체적으로, 솔직하게 누구나 하는 이야기가 아닌 자신의 이야기를 작성.
 
 ---
+
+<br><br>
 
 ## 레벨 4 - 시작
 
