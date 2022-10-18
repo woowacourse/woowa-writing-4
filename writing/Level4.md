@@ -25,7 +25,7 @@
 물론 우테코에 떨어졌더라도 한 번만 더를 반복하다 지금 시기쯤에는 무슨 일이든 하고 있었을 거예요.
 저는 구질구질한 사람이라 미련 남은 일은 될 때까지 시도하는 편이거든요.
 
-![dunning kruger effect](./dunning%20kruger%20effect.png)
+![dunning kruger effect](./dunning_kruger_effect.png)
 
 제가 개발에 미련 남았던 이유는 무엇일까요?
 대학교 4년 전공을 했다는 것도 물론 없진 않겠지만 오랫동안 미련을 못 버릴 정도는 아니었습니다.
