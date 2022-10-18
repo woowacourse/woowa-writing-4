@@ -8,8 +8,8 @@
 
 [![Generic badge](https://img.shields.io/badge/Level1-finished-blue.svg)](level1.md)
 [![Generic badge](https://img.shields.io/badge/Level2-finished-blue.svg)](level2.md)
-[![Generic badge](https://img.shields.io/badge/Level3-started-yellow.svg)](level3.md)
-[![Generic badge](https://img.shields.io/badge/Level4-ready-green.svg)](level4.md)
+[![Generic badge](https://img.shields.io/badge/Level3-finished-blue.svg)](level3.md)
+[![Generic badge](https://img.shields.io/badge/Level4-started-green.svg)](level4.md)
 
 > 우아한테크코스 웹 백엔드 4기, 글쓰기 미션 저장소입니다.
 
@@ -60,6 +60,9 @@
 
 ## 레벨 4 - 시작
 
-### [TBA](./level4.md)
+### [🖋 내가 꿈꾸는 프로그래머로서의 삶](./level4.md)
+
+- 본인이 최종적으로 꿈꾸는 프로그래머로서의 삶은 무엇인지 자유롭게 작성해 주세요.
+- 자신이 어떤 마음으로 프로그래머가 되고 싶어 했는지 되짚어보는 계기가 되었으면 합니다.
 
 <br><br>
