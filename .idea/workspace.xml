@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6cdb07eb-9c92-44e4-aa31-26f5e9e519da" name="Changes" comment="feat: 레벨 3 글쓰기 초안 작성">
-      <change beforePath="$PROJECT_DIR$/level3.md" beforeDir="false" afterPath="$PROJECT_DIR$/level3.md" afterDir="false" />
-    </list>
+    <list default="true" id="6cdb07eb-9c92-44e4-aa31-26f5e9e519da" name="Changes" comment="feat: 레벨4 글쓰기 초안 작성" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -89,7 +87,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659872815735</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="feat: 레벨4 글쓰기 초안 작성">
+      <created>1666089779100</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1666089779100</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -127,6 +132,7 @@
     <MESSAGE value="feat: 레벨2 글쓰기 초안 작성" />
     <MESSAGE value="refactor: 1차 피드백 반영" />
     <MESSAGE value="feat: 레벨 3 글쓰기 초안 작성" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: 레벨 3 글쓰기 초안 작성" />
+    <MESSAGE value="feat: 레벨4 글쓰기 초안 작성" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: 레벨4 글쓰기 초안 작성" />
   </component>
 </project>
